@@ -1,0 +1,4 @@
+sumTotal = (sum + 47    ) / total
+area = (length    + width) * 2
+sideAverage = (side1+side2   / 2
+ageNumbers = age + 3 - 5 * (D / C)
